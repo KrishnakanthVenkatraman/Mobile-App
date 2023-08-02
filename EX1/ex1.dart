@@ -6,7 +6,7 @@ void printTriangle(int n) {
     print(stars);
   }
 }
-
+var a=12;
 void main() {
   
   int rows = 3;
